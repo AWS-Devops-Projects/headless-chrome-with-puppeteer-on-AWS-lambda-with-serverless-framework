@@ -2,6 +2,7 @@
 
 ### Instructions to run locally 
 
+
 ```
 $ npm install 
 $ sls offline 
